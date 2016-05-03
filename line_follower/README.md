@@ -3,6 +3,8 @@
 #Simple Line Follower
 A simple line following robot. The robot relies on a reflective surface with a dull line drawn on it. ie: white table (or paper) with a dark line.
 
+![Animation](img/anim.gif)
+
 ![Front View](img/front_view-virtual.PNG)
 
 ![Bottom View](img/bottom_view-virtual.PNG)
