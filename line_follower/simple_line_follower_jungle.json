@@ -1,0 +1,89 @@
+{
+	"author": "Jungle Online Editor",
+	"blocks": [
+		{
+			"type": "blocker",
+			"version": 1,
+			"position": [
+				0,
+				0,
+				0
+			],
+			"rotation": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"type": "battery",
+			"version": 1,
+			"position": [
+				0,
+				0,
+				-1
+			],
+			"rotation": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"type": "drive",
+			"version": 1,
+			"position": [
+				-1,
+				0,
+				0
+			],
+			"rotation": [
+				0,
+				0,
+				-180
+			]
+		},
+		{
+			"type": "drive",
+			"version": 1,
+			"position": [
+				1,
+				0,
+				0
+			],
+			"rotation": [
+				0,
+				0,
+				-180
+			]
+		},
+		{
+			"type": "distance",
+			"version": 1,
+			"position": [
+				-1,
+				0,
+				1
+			],
+			"rotation": [
+				90,
+				0,
+				0
+			]
+		},
+		{
+			"type": "distance",
+			"version": 1,
+			"position": [
+				1,
+				0,
+				1
+			],
+			"rotation": [
+				90,
+				0,
+				0
+			]
+		}
+	]
+}
